@@ -1,0 +1,5 @@
+country = india
+age = 18
+
+if age > 18 and country = india
+       print("i can vote")
